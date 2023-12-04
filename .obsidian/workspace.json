@@ -1,0 +1,170 @@
+{
+  "main": {
+    "id": "80350c5e557d8ace",
+    "type": "split",
+    "children": [
+      {
+        "id": "ac25e8060cad3342",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f07516a7ddc3517e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TensorRT-LLM/C++ GPT Runtime.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "44a9ba93f257e320",
+    "type": "split",
+    "children": [
+      {
+        "id": "42c754efe6effb7a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d911ae1ae879f98d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "47083c909f31e97f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ec0f098295d4d9d8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 242.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "68d8dec0a2292b5f",
+    "type": "split",
+    "children": [
+      {
+        "id": "b33c9efeefcd46b3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "61fefef19009f777",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "TensorRT-LLM/C++ GPT Runtime.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "92e868ec62ddbbf0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "TensorRT-LLM/C++ GPT Runtime.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "25d153a056a14a80",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d242a6461be0f25f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "TensorRT-LLM/C++ GPT Runtime.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "f07516a7ddc3517e",
+  "lastOpenFiles": [
+    "TensorRT-LLM/C++ GPT Runtime.md",
+    "TensorRT-LLM/TensorRT/3-高级.md",
+    "TensorRT-LLM/TensorRT/2-Plugin.md",
+    "TensorRT-LLM/TensorRT/1-TensorRT.md",
+    "assets/Pasted image 20231203185043.png",
+    "assets/Pasted image 20231203183934.png",
+    "assets/Pasted image 20231203162916.png",
+    "TensorRT-LLM/TensorRT",
+    "assets/Pasted image 20231203141235.png",
+    "assets/Pasted image 20231203140846.png",
+    "assets/Pasted image 20231203140739.png",
+    "assets/Pasted image 20231203140709.png",
+    "assets/Pasted image 20231203140623.png",
+    "assets/Pasted image 20231203140539.png",
+    "assets/Pasted image 20231203140507.png",
+    "TensorRT-LLM/Architecture.md"
+  ]
+}
